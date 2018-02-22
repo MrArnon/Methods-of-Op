@@ -13,7 +13,7 @@ namespace CM_laba1
 		public double fx { get; set; }
 		private double Function(double x)
 		{
-			return x * x + 2 * x;
+			return (Math.Exp(x) + Math.Exp(-x)) / 2;
 		}
 		public Minimization(double A, double B, double EPS)
 		{

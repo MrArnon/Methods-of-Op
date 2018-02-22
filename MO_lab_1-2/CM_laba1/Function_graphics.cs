@@ -54,10 +54,12 @@ namespace CM_laba1
 		}
         public double Func(double x)
         {
-            double f;
-            f = x * x + 2 * x;
-            return f;
-        }
+			/* double f;
+			 f = x * x + 2 * x;
+			 return f;
+	 */
+			return (Math.Exp(x)+ Math.Exp(-x))/2;
+		}
         public void H()
         {
             h= 0.01; 

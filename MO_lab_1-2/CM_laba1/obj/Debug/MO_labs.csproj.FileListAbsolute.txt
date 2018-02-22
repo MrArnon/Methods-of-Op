@@ -8,3 +8,13 @@ E:\Поляков Максим Сергеевич\MO\MO_lab_1-2\CM_laba1\obj\Deb
 E:\Поляков Максим Сергеевич\MO\MO_lab_1-2\CM_laba1\obj\Debug\MO_labs.csproj.CoreCompileInputs.cache
 E:\Поляков Максим Сергеевич\MO\MO_lab_1-2\CM_laba1\obj\Debug\CM_laba1.exe
 E:\Поляков Максим Сергеевич\MO\MO_lab_1-2\CM_laba1\obj\Debug\CM_laba1.pdb
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\bin\Debug\CM_laba1.exe.config
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\bin\Debug\CM_laba1.exe
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\bin\Debug\CM_laba1.pdb
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\MO_labs.csprojResolveAssemblyReference.cache
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\CM_laba1.Form_for_graphic.resources
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\CM_laba1.Properties.Resources.resources
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\MO_labs.csproj.GenerateResource.Cache
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\MO_labs.csproj.CoreCompileInputs.cache
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\CM_laba1.exe
+E:\Labs\Methods-of-Op-master\MO_lab_1-2\CM_laba1\obj\Debug\CM_laba1.pdb
