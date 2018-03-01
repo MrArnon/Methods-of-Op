@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
 def func (x) :
-    return x*x-x+3
+    #return (np.exp(x)+np.exp(-x))/2
+    #return x*x -x +3
+    return np.cos(x) - x * x * x
 def parabola (f,a,b,eps,h,x):
     if (x == 0):
         x+=0.1
@@ -13,9 +15,9 @@ def parabola (f,a,b,eps,h,x):
         x1 = x - 0.5 * h * (f(x + h) - f(x - h)) / (f(x + h) - 2 * f(x) + f(x - h))
     if(x1 <a or x1>b):
         if (abs(x1-a) < (x1-b)):
-            x1=a
-        else:
             x1=b
+        else:
+            x1=a
     return x1
 def graphic(a,b):
     x = np.linspace(a, b, 1000)
