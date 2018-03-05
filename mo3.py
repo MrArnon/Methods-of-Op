@@ -1,9 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 def func (x) :
-    #return (np.exp(x)+np.exp(-x))/2
-    #return x*x -x +3
-    return np.cos(x) - x * x * x
+    return x*x -4*x +4
 def parabola (f,a,b,eps,h,x):
     if (x == 0):
         x+=0.1

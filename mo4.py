@@ -2,9 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.misc import derivative
 def func (x) :
-    #return (np.exp(x)+np.exp(-x))/2
-   #return x*x +3
-   return np.cos(x)-x*x*x
+   #r#eturn x*x +3
+   return x*x -4*x +4
 def diff_func(x):
     #print(derivative (func,x))
     return derivative (func,x)
@@ -42,8 +41,7 @@ def main():
     a=float(input("a->"))
     b=float(input("b->"))
     eps=float(input("accuracy eps->"))
-    #x1=nyothon(func,a,b,diff_func,eps)
-    x1=n_method(func,a,b,diff_func,eps)
+    x1=nyothon(func,a,b,diff_func,eps)
     print("Min point",x1)
     print("Min value",func(x1))
     graphic(a,b)
